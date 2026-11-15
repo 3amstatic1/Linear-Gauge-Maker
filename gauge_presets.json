@@ -1,0 +1,27 @@
+{
+    "RBWR Gauge": {
+        "filename": "linear_gauge_CTLC.png",
+        "width": "900",
+        "height": "450",
+        "title": "Cooling Tower Level Change",
+        "units": "[cm/min]",
+        "min": "-60.0",
+        "max": "60.0",
+        "current": "-60.0",
+        "major": "12.0",
+        "face": "#EBF8EB",
+        "needle": "#141423",
+        "color_seq": "0: #64B4DC; 0.5: #64B4DC; 1: #64B4DC",
+        "trans_seq": "0, 1; 0.5, 0; 1, 1",
+        "z_offset": "-12",
+        "z_height": "22",
+        "title_offset": "0",
+        "unit_offset": "-20",
+        "center_color": "#64B4DC",
+        "zones": "-12, 12",
+        "show_needle": false,
+        "use_gradient": true,
+        "highlight_center": true,
+        "font_path": "C:/Users/Adronix/AppData/Local/Microsoft/Windows/Fonts/RobotoMono-Light.ttf"
+    }
+}
