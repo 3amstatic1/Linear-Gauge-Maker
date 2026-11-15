@@ -44,6 +44,15 @@ time, transparency_value; time, transparency_value
 *Example:* `0, 0; 0.5, 1; 1, 0`
 
 ---
+## Star History
+
+<a href="https://www.star-history.com/?repos=theonewhobuilds1%2Flinear-gauge-maker&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=theonewhobuilds1/linear-gauge-maker&type=timeline&theme=dark&logscale&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=theonewhobuilds1/linear-gauge-maker&type=timeline&logscale&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=theonewhobuilds1/linear-gauge-maker&type=timeline&logscale&legend=bottom-right" />
+ </picture>
+</a>
 
 ## Presets
 All saved custom presets are automatically stored in a local file named `gauge_presets.json`. You can easily switch between presets using the dropdown menu at the top of the control panel, save new ones, or delete unwanted ones.
