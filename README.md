@@ -23,6 +23,7 @@ A Python desktop application built with **Tkinter** and **Pillow (PIL)** that al
 1. Clone or download this repository/script.
 2. Place the project in your working directory.
 3. Run the executable in `dist` named Linear Gauge Maker.
+4. If Windows SmartScreen pops up, click 'Run Anyway'. This is not a virus, it's because the program isn't signed.
   
 ---
 
