@@ -1,4 +1,4 @@
-# Linear Gauge Maker (Ultimate Edition)
+# Linear Gauge Maker
 
 A Python desktop application built with **Tkinter** and **Pillow (PIL)** that allows you to generate and customize linear gauges in real-time. It features Roblox-style color and transparency sequences (`ColorSequence` and `NumberSequence`), multi-zone support, center-line highlighting, live preview, custom font selection, preset management, and custom export path selection.
 
@@ -18,25 +18,12 @@ A Python desktop application built with **Tkinter** and **Pillow (PIL)** that al
 
 ---
 
-## Requirements
-
-Make sure you have Python installed along with the `Pillow` library.
-
-```bash
-pip install Pillow
-```
-
----
-
 ## Installation & Running
 
 1. Clone or download this repository/script.
-2. Place the python script (e.g., `lineargaugemaker.py`) in your working directory.
-3. Run the script:
-   ```bash
-   python lineargaugemaker.py
-   ```
-
+2. Place the project in your working directory.
+3. Run the executable in `dist` named Linear Gauge Maker.
+  
 ---
 
 ## How to Use Sequences
