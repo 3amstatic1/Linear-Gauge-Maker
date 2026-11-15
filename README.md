@@ -11,7 +11,8 @@ A Python desktop application built with **Tkinter** and **Pillow (PIL)** that al
   - **Color Sequence:** Define multi-point color gradients using time and RGB/Hex values (e.g., `0: #64B4DC; 0.5: #FFFFFF; 1: #64B4DC`).
   - **Transparency Sequence:** Control fade-ins and fade-outs across zones using time and transparency values (e.g., `0, 0; 0.5, 1; 1, 0`).
 - **Zone Management:** Define multiple independent or overlapping zone ranges (e.g., `-12, 12; 25, 40`), adjust zone vertical offsets, and change zone thickness.
-- **Custom Typography:** Support for custom `.ttf` fonts with adjustable vertical offsets for titles and units.
+- **Custom Typography:** Support for custom `.ttf` fonts with adjustable font sizes and vertical offsets for titles and units.
+- **Line & Tick Customization:** Adjust the baseline Y position, baseline line width, tick line width, and font sizes dynamically.
 - **Tick Marks & Center Highlight:** Automatically calculates major and minor tick divisions with an optional highlighted center reference line.
 - **Deferred Export (Save As):** Images are rendered in-memory during editing and only exported to disk when you explicitly click **Save Gauge File As...** and choose your destination path.
 - **Preset Management:** Save, load, and delete your favorite gauge configurations locally using `gauge_presets.json`.
