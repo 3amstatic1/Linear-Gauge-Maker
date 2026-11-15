@@ -249,7 +249,7 @@ def generate_gauge_image(
 class GaugeMakerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Linear Gauge Maker - Gradient Fix Edition")
+        self.root.title("Linear Gauge Maker")
         self.root.geometry("1150x1160")
 
         control_frame = ttk.LabelFrame(root, text=" Gauge Parameters & Presets ", padding=12)
